@@ -1,2 +1,1 @@
-# spark-wave
-Light wave filter in spark AR.
+Experiment on wave style visual shader application in spark AR.
