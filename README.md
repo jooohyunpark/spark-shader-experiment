@@ -1,1 +1,1 @@
-Experiment on wave style visual shader application in spark AR.
+Experiment on various visual shaders in spark AR with texture animation sequence.
